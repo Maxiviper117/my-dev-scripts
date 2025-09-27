@@ -6,7 +6,7 @@ This repo is to store my personal development scripts, setups, and configuration
 
 Split up into domains for different languages, frameworks, and tools.
 
-Example layout:
+Example layout (not strict, just a guide):
 
 ```text
 my-dev-scripts/
